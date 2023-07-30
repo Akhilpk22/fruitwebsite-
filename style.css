@@ -1,0 +1,247 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container-1{
+     position: sticky;
+     top: 0px;
+     z-index: 1;
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+
+.ul-tag{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.h1{
+    margin-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 150px;
+    
+}
+.h1:hover{
+    font-style: italic;
+    
+}
+#img{
+ width: 201px;
+ height: 124px;
+}
+#img:hover{
+ 
+    width: 140px;
+
+}
+.list{
+   
+    display: inline;
+    list-style: none;
+    margin: 0px  55px;
+}
+
+.link{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+.link:hover{
+    font-size: 20px;
+    background-color:rgb(114, 114, 237);
+}
+.small-header{
+    
+    font-size: 10px;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.home{
+ 
+    margin-top: 80px;
+}
+
+.title-h1{
+    
+    margin-left: 430px;
+    font-size: 40px;
+}
+#sub-h{
+    font-size: 50px;
+    color:rgb(134, 217, 245) ;
+}
+.content{
+    border: 1px solid;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 560px;
+    width: 424px;
+    height: 110px;
+   padding-left: 10px;
+   padding-right: 10px;
+    padding-top: 10px;
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+    margin: -135px 20px 0px 20px;
+}
+#h1-sub{
+
+    text-align: center;
+}
+.about-sub1{
+    margin-left: 2.5px;
+    border: 5px solid lightblue;
+    border-radius: 15px;
+}
+.h4{
+    color:rgb(46, 68, 75);
+    padding-left: 20px;
+}
+.about-h2{
+    padding-left: 12px;
+    padding-top: 3px;
+    color: rgb(86, 202, 240);
+    font-size: 20px;
+}
+.buy-1{
+    margin-top: 2rem;
+    text-align: center;
+}
+.buy-h3{
+    color:rgb(106, 212, 247) ;
+    margin-left: 9rem;
+}
+.img-part1,.img-part2,.img-part3{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    background-size: cover;
+    
+}
+.buy-img{
+    border: 9px solid lightblue;
+    border-radius: 22px;
+}
+.buy-a{
+    text-decoration: none;
+    margin-left: 6rem;
+}
+.REVIEW-heading{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.customer{
+    display: flex;
+    justify-content: space-around;
+}
+.customer-2,.customer-3,.customer-1{
+    margin-top: 100px;
+}
+.p1,.p2,.p3{
+   justify-items: center;
+    width: 300px;
+   
+}
+.p1{
+    margin-top: 16px;
+    margin-left: 36px;
+}
+.p2{
+    margin-top: 23px;
+}
+.p3{
+    margin-top: 23px;
+}
+.customer-img-1{
+  
+    margin-left: 85px;
+    border-radius: 80px;
+
+}
+.customer-img-2{
+  
+    margin-left: 40px;
+    border-radius: 80px;
+}
+.customer-img-3{
+   
+    margin-left: 25px;
+    border-radius: 80px;
+}
+.footer{
+    /* height: 800px; */
+}
+.mainfooter{
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10rem   ;
+    background-color: rgb(197, 230, 241);
+    
+}
+/* .footer-sub img{
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 120px;
+} */
+
+.contact{
+    margin-top: 50px;
+    /* font-size: 90px; */
+    margin-right: 333px;
+}
+#con{
+    margin-top: 90px;
+    font-family: 'Caprasimo', cursive;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 200px;
+
+   
+}
+.contact-sub{
+    margin-top: 80px;
+  
+}
+.sub-1{
+    margin-left: 70px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Caprasimo', cursive;
+}
+
+
+
+.service{
+    margin-top: 135px;
+    margin-right: 300px;
+    
+}
+.service-sub{
+    padding-top: 1rem;
+   margin-left: -66px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
